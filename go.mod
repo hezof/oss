@@ -1,3 +1,3 @@
-module ksogit.kingsoft.net/kgo/oss
+module github.com/hezof/oss
 
-go 1.20
+go 1.21
